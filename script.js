@@ -1,4 +1,4 @@
-alert("<h1>Hii! Please click the Ok </h1>");
+alert(" Hii! Please click the Ok ");
  
   	if(1)
   	{
