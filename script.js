@@ -1,6 +1,6 @@
-var a=prompt("Enter Your Name");
+alert("Hii!");
  
-  	if(a== "nishu"||a=="Nishu")
+  	if(1)
   	{
   	    window.location.href="start.html";
   	}
